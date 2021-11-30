@@ -1,0 +1,5 @@
+com\company\resume\controller\UserDetailController.class
+com\company\resume\controller\filter\JspFilter.class
+com\company\resume\controller\UserSearchController.class
+com\company\resume\controller\LoginController.class
+com\company\resume\controller\ErrorController.class
